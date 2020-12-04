@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: alarm-pkg-jm1181
+Version: 0.0.1
+Summary: Smart Alarm Clock
+Home-page: https://github.com/mcollison/CA1-countdown
+Author: Jemima Morris
+Author-email: jm1181@exeter.ac.uk
+License: UNKNOWN
+Description: This is a program that allows you to get the latest information regarding COVID-19, the news and the latest weather. It also allows youto create alarms that read out the news, weather or COVID updates if that is what you would like to do.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

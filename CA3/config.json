@@ -1,0 +1,11 @@
+{
+  "API_keys": {
+    "weather": "1a97e244777faf01a5af8a42116cc60a",
+    "news": "0360e32213b64670a3f8b7e24851e6b6"
+  },
+  "location": {
+    "country": "England",
+    "city": "Exeter",
+    "type": "nation"
+    }
+}
